@@ -60,5 +60,3 @@ mysql -u root -p music_database < music_database_mysql.sql
 - **Concepts:** Joins, Subqueries, CTEs, Window Functions, Aggregations
 
 ---
-
-*Original dataset source: [@RishabhMishraOfficial](https://www.youtube.com/@RishabhMishraOfficial)*
